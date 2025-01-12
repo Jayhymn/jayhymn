@@ -9,7 +9,10 @@
 
 - 💬 Ask me about **Kotlin, Android**
 
-- 📫 How to reach me: [Email](adetunji.adegbite1@gmail.com)
+- 📫 How to reach me: <a href="mailto:adetunji.adegbite1@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" width="20" height="20"/> 
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
