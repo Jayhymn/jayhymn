@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adetunji (Wakeupdev)</h1>
+<h1 align="center">Hi 👋, I'm Adetunji (You can call me Wakeupdev)</h1>
 <h3 align="center">👋 Mobile Engineer keen on proffering solutions by developing solid and robust Native and Cross Platform apps. 🚀 Hit me up for Android, Flutter, and KMP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayhymn&label=Profile%20views&color=0e75b6&style=flat" alt="jayhymn" /> </p>
